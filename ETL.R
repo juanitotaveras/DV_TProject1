@@ -3,18 +3,18 @@ require(dplyr)
 require(ggplot2)
 
 
-setwd("/home/juanito/DataVisualization/DV_RProject3/")
+setwd("/home/juanito/Google Drive/UT Austin/Classes Fall 2015/CS329E: Data Visualization/DV_TProject1/")
 
-file_path <- "premature_deaths.csv"
+file_path <- "Gallups_Most_Important_Problem_reformatted.csv"
 
 df <- read.csv(file_path, stringsAsFactors = FALSE)
 
 # Replace "." (i.e., period) with "_" in the column names.
-names(df) <- gsub("\\.+", "_", names(df))
+#names(df) <- gsub("\\.+", "_", names(df))
 
-# str(df) # Uncomment this and  run just the lines to here to get column types to use for getting the list of measures.
+View(df) # Uncomment this and  run just the lines to here to get column types to use for getting the list of measures.
 
-measures <- c("Year", "Deaths_less_than_1_month", "Deaths_1_to_59_months", "Deaths_0_to_4_years")
+measures <- c("Year", "Percentage", "MajorTopic", "Congress")
 #measures <- NA # Do this if there are no measures.
 
 # Get rid of special characters in each column.
@@ -46,7 +46,7 @@ if( length(measures) > 1 || ! is.na(measures)) {
   }
 }
 
-write.csv(df, paste(gsub(".csv", "", file_path), ".reformatted.csv", sep=""), row.names=FALSE, na = "")
+#write.csv(df, paste(gsub(".csv", "", file_path), ".reformatted.csv", sep=""), row.names=FALSE, na = "")
 
 tableName <- gsub(" +", "_", gsub("[^A-z, 0-9, ]", "", gsub(".csv", "", file_path)))
 sql <- paste("CREATE TABLE", tableName, "(\n-- Change table_name to the table name you want.\n")
@@ -61,5 +61,6 @@ if( length(measures) > 1 || ! is.na(measures)) {
     else sql <- paste(sql, paste(m, "number(38,4)\n"))
   }
 }
+
 sql <- paste(sql, ");")
 cat(sql)
