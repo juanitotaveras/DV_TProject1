@@ -2,7 +2,7 @@
 def main():
 	inFile = open ("./Gallups_Most_Important_Problem.csv", "r")
 	outFile = open ("./Gallups_Most_Important_Problem_reformatted.csv", "w")
-	topics = {1:"Macroeconomics", 2:"Civil Rights", 3:"Health", 4:"Agriculture", 5:"Labor", 6:"Education", 7:"Environment", 8:"Energy", 10:"Transportation", 12:"Crime", 13:"Social Welfare", 14:"Housing & Development", 15:"Domestic Commerce", 16:"Defernse", 17:"Science & Technology", 18:"Foreign Trade", 19:"International Affairs", 20:"Government Operations", 21:"Public Lands", 25:"Don't Know/Other"}
+	topics = {1:"Macroeconomics", 2:"Civil Rights", 3:"Health", 4:"Agriculture", 5:"Labor", 6:"Education", 7:"Environment", 8:"Energy", 9:"Immigration", 10:"Transportation", 12:"Crime", 13:"Social Welfare", 14:"Housing & Development", 15:"Domestic Commerce", 16:"Defernse", 17:"Science & Technology", 18:"Foreign Trade", 19:"International Affairs", 20:"Government Operations", 21:"Public Lands", 25:"Don't Know/Other"}
 	
 	for line in inFile:
 		print(line)
