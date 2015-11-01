@@ -1,0 +1,23 @@
+---
+title: "DV_TProject1"
+author: "Zareen Khayrattee, Kayne Khoury, Juanito Taveras"
+date: "November 1, 2015"
+output: html_document
+---
+
+##Our Dataset
+The dataset codes public opinion polls from Gallup's Most Important Problem Survey using the Policy Agendas Project's content coding scheme. The data is in the yearly format. All the entries are coded by the policy content of the poll responses, along with other variables of interest. This allows researchers to trace activity on a particular topic over time.
+
+
+##Percentages of Public Opinion Topics in the 2000s
+This worksheet captures the aggregated proportions for each major category, on an
+annual basis, for all of the polls contained in the working data set. These annualized proportions were constructed by normalizing the percentage of responses in every major topic (e.g. Macroeconomics) by the total percentage of responses in any given year
+
+For this particular visualization, we constructed a bar chart that showed the percentages of each major topic as a portion of the whole over the years 2000-2012 (in 2-year increments). We can see that there are some topics that public opinion does not seem to heed at all in this millenium, such as agriculture, housing and development, public lands, and transportation. Public opinion views most of the topics differently refelecting the circumstances that surround that year. For example, it's interesting to note that Defense has a significantly higher percentage in 2002 (following the 9/11 attacks) than it does in 2012. Similarly, if we compare Macroeconomics in 2006 and 2008, you can see that 2008 has a significantly higher percentage because of the Financial Crisis.
+
+![](../02 Tableau/BarChart2.jpg)
+
+##Percentages of Major Topics during 1990-2010
+We made another bar chart visualization to show a more big picture view of the 20-year period of 1990-2010 (in 5-year increments). We inserted reference lines in each pane to show that average of that topic over that time period. (For this visualization, we took out the topics that had 0%.) We also colored the bars by Percentage so that it was easier to spot the trends. The biggest fluctuations in public opinion occured with the topics: Crime and Defense. The most constantnly significant topic was Macroeconomics, which is now the highest it has ever been.
+
+![](../02 Tableau/BarChart1.2.jpg)
