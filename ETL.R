@@ -49,7 +49,7 @@ if( length(measures) > 1 || ! is.na(measures)) {
 #write.csv(df, paste(gsub(".csv", "", file_path), ".reformatted.csv", sep=""), row.names=FALSE, na = "")
 
 tableName <- gsub(" +", "_", gsub("[^A-z, 0-9, ]", "", gsub(".csv", "", file_path)))
-sql <- paste("CREATE TABLE", tableName, "(\n-- Change table_name to the table name you want.\n")
+sql <- paste("CREATE TABLE", tableName)
 if( length(measures) > 1 || ! is.na(dimensions)) {
   for(d in dimensions) {
     sql <- paste(sql, paste(d, "varchar2(4000),\n"))
