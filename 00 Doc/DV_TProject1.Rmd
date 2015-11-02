@@ -21,3 +21,19 @@ For this particular visualization, we constructed a bar chart that showed the pe
 We made another bar chart visualization to show a more big picture view of the 20-year period of 1990-2010 (in 5-year increments). We inserted reference lines in each pane to show that average of that topic over that time period. (For this visualization, we took out the topics that had 0%.) We also colored the bars by Percentage so that it was easier to spot the trends. The biggest fluctuations in public opinion occured with the topics: Crime and Defense. The most constantnly significant topic was Macroeconomics, which is now the highest it has ever been.
 
 ![](../02 Tableau/BarChart1.2.jpg)
+
+##Percentages of Social Issue Major Topics 1950 - 2010
+We mae a scatterplot and a line graph portraying the Most Important Problem from Gallup's survey, specifically for topics related to social issues: Civil Rights, Crime, Education, Health, and Social Welfare.
+
+The two visualizations portray several important trends: we can clearly see that Civil Rights was an extremely important issue up until 1975, when other issues began to take precedence.
+
+Crime and Civil Rights both neared 0.2% 1965 - 1970, indicating a correlation. 
+
+Education and Crime both showed a spike in importance near the year 2000, when Social Welfare was also on the rise. Both topics could have risen in importance due to people's assumption that an increase in education funding would, in turn, decrease Crime and would lessen the need for Social Welfare.
+
+Finally, though one would think that Health would be closely correlated with these other Social topics, it actually shows a somewhat different trend: Health peaks as a topic in 1989, not correlated with the peak of any other topics, and it lessens in 1995, as soon as Crime skyrockets in importance. 
+
+Towards the 2000s, Education, Health, Social Welfare, and Crime all experience a similar slight uptrend, while Civil Rights stays dormant. These trends altogether demonstrate the rising and falling of these different social issues' importance, and how they mostly fluctuate at similar times.
+
+![](../02 Tableau/Scatterplot1.jpg)
+![](../02 Tableau/Scatterplot2.jpg)
