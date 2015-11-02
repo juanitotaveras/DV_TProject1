@@ -23,7 +23,7 @@ We made another bar chart visualization to show a more big picture view of the 2
 ![](../02 Tableau/BarChart1.2.jpg)
 
 ##Percentages of Social Issue Major Topics 1950 - 2010
-We mae a scatterplot and a line graph portraying the Most Important Problem from Gallup's survey, specifically for topics related to social issues: Civil Rights, Crime, Education, Health, and Social Welfare.
+We made a scatterplot and a line graph portraying the Most Important Problem from Gallup's survey, specifically for topics related to social issues: Civil Rights, Crime, Education, Health, and Social Welfare.
 
 The two visualizations portray several important trends: we can clearly see that Civil Rights was an extremely important issue up until 1975, when other issues began to take precedence.
 
@@ -37,3 +37,6 @@ Towards the 2000s, Education, Health, Social Welfare, and Crime all experience a
 
 ![](../02 Tableau/Scatterplot1.jpg)
 ![](../02 Tableau/Scatterplot2.jpg)
+
+##Crosstab
+![](../02 Tableau/CrossTab.jpg)
