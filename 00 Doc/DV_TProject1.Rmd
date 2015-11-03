@@ -38,5 +38,7 @@ Towards the 2000s, Education, Health, Social Welfare, and Crime all experience a
 ![](../02 Tableau/Scatterplot.jpg)
 
 
-##Crosstab
+##A Closer Look at the Great Recession
 ![](../02 Tableau/CrossTab.jpg)
+
+This Visualization provides useful insight into the large change in public opinion after 2007 that likely occured due to the Great Recession. After 2007, public opinion is less and less concerned with defense and far more concerned with macroeconomics. The importance of macroeconomics became far more important to the public once the negative effects of the recession reached its low point. Our KPI is calculated to determine how important a topic is based on the percentage for that year.
