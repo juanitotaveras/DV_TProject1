@@ -3,12 +3,12 @@ require(dplyr)
 require(ggplot2)
 
 
-setwd("/home/juanito/Google Drive/UT Austin/Classes Fall 2015/CS329E: Data Visualization/DV_TProject1/")
+setwd("/home/juanito/Desktop/data_online/DV_TProject1/")
 
 file_path <- "Gallups_Most_Important_Problem_reformatted.csv"
 
 df <- read.csv(file_path, stringsAsFactors = FALSE)
-
+View(df)
 # Replace "." (i.e., period) with "_" in the column names.
 #names(df) <- gsub("\\.+", "_", names(df))
 
@@ -49,7 +49,7 @@ if( length(measures) > 1 || ! is.na(measures)) {
 #write.csv(df, paste(gsub(".csv", "", file_path), ".reformatted.csv", sep=""), row.names=FALSE, na = "")
 
 tableName <- gsub(" +", "_", gsub("[^A-z, 0-9, ]", "", gsub(".csv", "", file_path)))
-sql <- paste("CREATE TABLE", tableName)
+sql <- paste("CREATE TABLE", tableName, "(\n-- Change table_name to the table name you want.\n")
 if( length(measures) > 1 || ! is.na(dimensions)) {
   for(d in dimensions) {
     sql <- paste(sql, paste(d, "varchar2(4000),\n"))

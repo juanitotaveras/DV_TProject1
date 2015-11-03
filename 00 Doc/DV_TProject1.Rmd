@@ -35,8 +35,8 @@ Finally, though one would think that Health would be closely correlated with the
 
 Towards the 2000s, Education, Health, Social Welfare, and Crime all experience a similar slight uptrend, while Civil Rights stays dormant. These trends altogether demonstrate the rising and falling of these different social issues' importance, and how they mostly fluctuate at similar times.
 
-![](../02 Tableau/Scatterplot1.jpg)
-![](../02 Tableau/Scatterplot2.jpg)
+![](../02 Tableau/Scatterplot.jpg)
+
 
 ##Crosstab
 ![](../02 Tableau/CrossTab.jpg)
