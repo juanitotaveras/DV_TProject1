@@ -14,7 +14,7 @@ View(df)
 
 View(df) # Uncomment this and  run just the lines to here to get column types to use for getting the list of measures.
 
-measures <- c("Year", "Percentage", "MajorTopic", "Congress")
+measures <- c("Percentage", "MajorTopic", "Congress")
 #measures <- NA # Do this if there are no measures.
 
 # Get rid of special characters in each column.
