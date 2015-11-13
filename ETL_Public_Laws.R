@@ -9,7 +9,7 @@ file_path <- "Public_Laws_reformatted.csv"
 
 df <- read.csv(file_path, stringsAsFactors = FALSE)
 
-measures <- c("PublicLawNo", "Year", "Congress", "Democrat", "HouseCommittee", "SenateCommittee", "subTopicCode", "DateIntroduced", "DataPassedHouse", "DatePassedSenate", "DateSigned")
+measures <- c("PublicLawNo", "Congress", "Democrat", "HouseCommittee", "SenateCommittee", "subTopicCode", "DateIntroduced", "DataPassedHouse", "DatePassedSenate", "DateSigned")
 
 # Get rid of special characters in each column.
 for(n in names(df)) {
