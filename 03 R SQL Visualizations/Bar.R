@@ -6,7 +6,7 @@ require("tidyr")
 require("extrafont")
 
 
-df <- data.frame(fromJSON(getURL(URLencode('skipper.cs.utexas.edu:5001/rest/native/?query="select majortopic, year, sum(sum_percentage) as sum_percentage from (select year, majortopic, sum(PERCENTAGE) as sum_percentage from GALLUPS group by year, majortopic) where ((year="1990" or year="1995" or year="2000" or year="2005" or year="2010") and (majortopic!=\'Agriculture\' and majortopic!=\'Domestic Commerce\' and majortopic!=\'Housing  and  Development\' and majortopic!=\'Labor\' and majortopic!=\'Public Lands\' and majortopic!=\'Transportation\' and (majortopic=\'Crime\' or majortopic=\'Defense\'))) group by year, majortopic order by majortopic, year "'),httpheader=c(DB='jdbc:oracle:thin:@sayonara.microlab.cs.utexas.edu:1521:orcl', USER='C##cs329e_kdk745', PASS='orcl_kdk745', MODE='native_mode', MODEL='model', returnDimensions = 'False', returnFor = 'JSON'), verbose = TRUE) ))
+df <- data.frame(fromJSON(getURL(URLencode('skipper.cs.utexas.edu:5001/rest/native/?query="select majortopic, year, sum(sum_percentage) as sum_percentage from (select year, majortopic, sum(PERCENTAGE) as sum_percentage from GALLUPS group by year, majortopic) where ((year="1990" or year="1995" or year="2000" or year="2005" or year="2010") and (majortopic!=\'Agriculture\' and majortopic!=\'Domestic Commerce\' and majortopic!=\'Housing  and  Development\' and majortopic!=\'Labor\' and majortopic!=\'Public Lands\' and majortopic!=\'Transportation\' and (majortopic=\'Civil Rights\' or majortopic=\'Crime\' or majortopic=\'Defense\' or majortopic=\'Dont Know/Other\' or majortopic=\'Education\'))) group by year, majortopic order by majortopic, year "'),httpheader=c(DB='jdbc:oracle:thin:@sayonara.microlab.cs.utexas.edu:1521:orcl', USER='C##cs329e_kdk745', PASS='orcl_kdk745', MODE='native_mode', MODEL='model', returnDimensions = 'False', returnFor = 'JSON'), verbose = TRUE) ))
 
 spread(df, YEAR, SUM_PERCENTAGE) %>% View
 
@@ -24,7 +24,7 @@ ggplot() +
         geom="bar",
         geom_params=list(colour="blue"), 
         position=position_identity()
-  ) +
+  ) + coord_flip() + 
   layer(data=df, 
         mapping=aes(x=factor(YEAR), y=SUM_PERCENTAGE, label=round(SUM_PERCENTAGE)), 
         stat="identity", 

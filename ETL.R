@@ -3,7 +3,7 @@ require(dplyr)
 require(ggplot2)
 
 
-setwd("/home/juanito/Desktop/data_online/DV_TProject1/")
+setwd("~/DataVisualization/DV_TProject1")
 
 file_path <- "Gallups_Most_Important_Problem_reformatted.csv"
 
