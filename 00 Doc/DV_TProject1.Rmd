@@ -58,4 +58,8 @@ Towards the 2000s, Education, Health, Social Welfare, and Crime all experience a
 source("../03 R SQL Visualizations/DVTCrosstab.R",echo=TRUE)
 ```
 
-This Visualization provides useful insight into the large change in public opinion after 2007 that likely occured due to the Great Recession. After 2007, public opinion is less and less concerned with defense and far more concerned with macroeconomics. The topic of macroeconomics became far more important to the public once the negative effects of the recession reached its low point in 2008 and 2009. Our KPI is calculated to determine how important a topic is based on the percentage for that year. Percentage less than 10 percent is low, between 10 and 25 percent is moderate, and above 25 percent is high. 
+This Visualization provides useful insight into the large change in public opinion after 2007 that likely occured due to the Great Recession. After 2007, public opinion is less and less concerned with defense and far more concerned with macroeconomics. The topic of macroeconomics became far more important to the public once the negative effects of the recession reached its low point in 2008 and 2009. Our KPI is calculated to determine how important a topic is based on the percentage for that year. Percentage less than 10 percent is low, between 10 and 25 percent is moderate, and above 25 percent is high.
+
+##Data Blending
+We blended our original dataset with a Dataset on Public Laws, showing the different House and Senate Bills and what date bills were passed in the house. Here is a tableau visualization of the blended datasets:
+![](../02 Tableau/DataBlending1.jpg)
