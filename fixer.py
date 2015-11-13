@@ -38,10 +38,8 @@ def main():
 				else:
 					st += line2[i] + ","
 			st += line2[i + 1]
-
 		newline = st			 
 		outFile.write(newline) 
-
 		print("old line: " + line)
 		print ("new line: " + newline)
 
