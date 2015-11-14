@@ -67,10 +67,10 @@ source("../03 R SQL Visualizations/DVTCrosstab.R",echo=TRUE)
 This Visualization provides useful insight into the large change in public opinion after 2007 that likely occured due to the Great Recession. After 2007, public opinion is less and less concerned with defense and far more concerned with macroeconomics. The topic of macroeconomics became far more important to the public once the negative effects of the recession reached its low point in 2008 and 2009. Our KPI is calculated to determine how important a topic is based on the percentage for that year. Percentage less than 10 percent is low, between 10 and 25 percent is moderate, and above 25 percent is high.
 
 ##Data Blending
-We blended our original dataset with a Dataset on Public Laws passed by the United States Congress. Here is a tableau visualization of the blended datasets. The two datasets are identical by year and major topic.The text in the crosstab is set to the id number of the law passed. The color is based on a KPI for topic importance at the time of the law's passing.
+We created another data set called Policy Moods using a Python script that similarly represents the country's opinion on major topics. We then used Tableau to blend them with Year and Major topic, and produced a scatterplot just like our "Social Issues 1960 - 2012"" plot, but with this data blended with it.
 ![](../02 Tableau/DataBlending1.jpg)
 
-We made another dataset called Policy Moods and randomized the percentages of people's opinions on major topics using a Python script. We then blended it with our original dataset and made this scatterplot with it, which is the same as our scatterplot about Social Issues 1960 - 2012 but with this additional data.
+We also used SQL/R to blend the data sources and created the same scatterplot.
 
 ```{r fig.width=10, fig.height=6}
 source("../03 R SQL Visualizations/Blending.R",echo=TRUE)
