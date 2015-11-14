@@ -69,3 +69,6 @@ This Visualization provides useful insight into the large change in public opini
 ##Data Blending
 We blended our original dataset with a Dataset on Public Laws passed by the United States Congress. Here is a tableau visualization of the blended datasets. The two datasets are identical by year and major topic.The text in the crosstab is set to the id number of the law passed. The color is based on a KPI for topic importance at the time of the law's passing.
 ![](../02 Tableau/DataBlending1.jpg)
+```{r fig.width=10, fig.height=6}
+source("../03 R SQL Visualizations/Blending.R",echo=TRUE)
+```
