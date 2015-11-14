@@ -1,0 +1,1408 @@
+KeyID,Year,Percentage,MajorTopic,Congress
+1,1946,,Macroeconomics,79
+2,1947,0.347958,Macroeconomics,80
+3,1948,0.221154,Macroeconomics,80
+4,1949,0.288126,Macroeconomics,81
+5,1950,0.233645,Macroeconomics,81
+6,1951,0.228571,Macroeconomics,82
+7,1952,0.214286,Macroeconomics,82
+8,1953,,Macroeconomics,83
+9,1954,0.333333,Macroeconomics,83
+10,1955,,Macroeconomics,84
+11,1956,0.153005,Macroeconomics,84
+12,1957,0.214514,Macroeconomics,85
+13,1958,0.223665,Macroeconomics,85
+14,1959,0.225399,Macroeconomics,86
+15,1960,0.126343,Macroeconomics,86
+16,1961,0.178629,Macroeconomics,87
+17,1962,0.162725,Macroeconomics,87
+18,1963,0.122066,Macroeconomics,88
+19,1964,0.0897436,Macroeconomics,88
+20,1965,0.063281,Macroeconomics,89
+21,1966,0.153348,Macroeconomics,89
+22,1967,0.108434,Macroeconomics,90
+23,1968,0.0738494,Macroeconomics,90
+24,1969,0.0694444,Macroeconomics,91
+25,1970,0.117851,Macroeconomics,91
+26,1971,0.280778,Macroeconomics,92
+27,1972,0.241135,Macroeconomics,92
+28,1973,0.386482,Macroeconomics,93
+29,1974,0.563478,Macroeconomics,93
+30,1975,0.596859,Macroeconomics,94
+31,1976,0.555344,Macroeconomics,94
+32,1977,0.453159,Macroeconomics,95
+33,1978,0.599662,Macroeconomics,95
+34,1979,0.507661,Macroeconomics,96
+35,1980,0.563124,Macroeconomics,96
+36,1981,0.69208,Macroeconomics,97
+37,1982,0.787798,Macroeconomics,97
+38,1983,0.612119,Macroeconomics,98
+39,1984,0.527975,Macroeconomics,98
+40,1985,0.448276,Macroeconomics,99
+41,1986,0.374468,Macroeconomics,99
+42,1987,0.313726,Macroeconomics,100
+43,1988,0.33,Macroeconomics,100
+44,1989,0.234375,Macroeconomics,101
+45,1990,0.322539,Macroeconomics,101
+46,1991,0.401276,Macroeconomics,102
+47,1992,0.505342,Macroeconomics,102
+48,1993,0.460902,Macroeconomics,103
+49,1994,0.224404,Macroeconomics,103
+50,1995,0.297101,Macroeconomics,104
+51,1996,0.316416,Macroeconomics,104
+52,1997,0.212364,Macroeconomics,105
+53,1998,0.168942,Macroeconomics,105
+54,1999,0.114541,Macroeconomics,106
+55,2000,0.13814,Macroeconomics,106
+56,2001,0.219932,Macroeconomics,107
+57,2002,0.251848,Macroeconomics,107
+58,2003,0.335164,Macroeconomics,108
+59,2004,0.276278,Macroeconomics,108
+60,2005,0.192051,Macroeconomics,109
+61,2006,0.151111,Macroeconomics,109
+62,2007,0.13587,Macroeconomics,110
+63,2008,0.397258,Macroeconomics,110
+64,2009,0.526982,Macroeconomics,111
+65,2010,0.480118,Macroeconomics,111
+66,2011,0.532516,Macroeconomics,112
+67,2012,0.518317,Macroeconomics,112
+68,1946,,Civil Rights,79
+69,1947,0.00605144,Civil Rights,80
+70,1948,0.0224359,Civil Rights,80
+71,1949,0.0540236,Civil Rights,81
+72,1950,0.140187,Civil Rights,81
+73,1951,0.0285714,Civil Rights,82
+74,1952,0.0892857,Civil Rights,82
+75,1953,,Civil Rights,83
+76,1954,0.166667,Civil Rights,83
+77,1955,,Civil Rights,84
+78,1956,0.151366,Civil Rights,84
+79,1957,0.165869,Civil Rights,85
+80,1958,0.114329,Civil Rights,85
+81,1959,0.0681245,Civil Rights,86
+82,1960,0.0718785,Civil Rights,86
+83,1961,0.0561252,Civil Rights,87
+84,1962,0.0810811,Civil Rights,87
+85,1963,0.488263,Civil Rights,88
+86,1964,0.423611,Civil Rights,88
+87,1965,0.278649,Civil Rights,89
+88,1966,0.205184,Civil Rights,89
+89,1967,0.138554,Civil Rights,90
+90,1968,0.224402,Civil Rights,90
+91,1969,0.282407,Civil Rights,91
+92,1970,0.282496,Civil Rights,91
+93,1971,0.151188,Civil Rights,92
+94,1972,0.114894,Civil Rights,92
+95,1973,0.0970537,Civil Rights,93
+96,1974,0.0347826,Civil Rights,93
+97,1975,0.0680628,Civil Rights,94
+98,1976,0.0496183,Civil Rights,94
+99,1977,0.0631808,Civil Rights,95
+100,1978,0.0506757,Civil Rights,95
+101,1979,0.0512097,Civil Rights,96
+102,1980,0.0478353,Civil Rights,96
+103,1981,0.0458919,Civil Rights,97
+104,1982,0.0291777,Civil Rights,97
+105,1983,0.0442282,Civil Rights,98
+106,1984,0.0400454,Civil Rights,98
+107,1985,0.0344828,Civil Rights,99
+108,1986,0.0297872,Civil Rights,99
+109,1987,0.0470588,Civil Rights,100
+110,1988,0,Civil Rights,100
+111,1989,0.0435606,Civil Rights,101
+112,1990,0.0362694,Civil Rights,101
+113,1991,0.0347927,Civil Rights,102
+114,1992,0.0491453,Civil Rights,102
+115,1993,0.0441582,Civil Rights,103
+116,1994,0.0412106,Civil Rights,103
+117,1995,0.057971,Civil Rights,104
+118,1996,0.0761301,Civil Rights,104
+119,1997,0.0870063,Civil Rights,105
+120,1998,0.0682594,Civil Rights,105
+121,1999,0.018684,Civil Rights,106
+122,2000,0.0310853,Civil Rights,106
+123,2001,0.0256144,Civil Rights,107
+124,2002,0.0132345,Civil Rights,107
+125,2003,0.0110451,Civil Rights,108
+126,2004,0.0159493,Civil Rights,108
+127,2005,0.0160447,Civil Rights,109
+128,2006,0.0148325,Civil Rights,109
+129,2007,0.0116222,Civil Rights,110
+130,2008,0.012589,Civil Rights,110
+131,2009,0.014191,Civil Rights,111
+132,2010,0.011379,Civil Rights,111
+133,2011,0.014538,Civil Rights,112
+134,2012,0.01485,Civil Rights,112
+135,1946,,Health,79
+136,1947,0,Health,80
+137,1948,0,Health,80
+138,1949,0.00168824,Health,81
+139,1950,0.00233645,Health,81
+140,1951,0,Health,82
+141,1952,0,Health,82
+142,1953,,Health,83
+143,1954,0,Health,83
+144,1955,,Health,84
+145,1956,0,Health,84
+146,1957,0.00318979,Health,85
+147,1958,0,Health,85
+148,1959,0,Health,86
+149,1960,0,Health,86
+150,1961,0,Health,87
+151,1962,0,Health,87
+152,1963,0,Health,88
+153,1964,0,Health,88
+154,1965,0,Health,89
+155,1966,0,Health,89
+156,1967,0,Health,90
+157,1968,0.000356761,Health,90
+158,1969,0.00462963,Health,91
+159,1970,0.0121317,Health,91
+160,1971,0,Health,92
+161,1972,0,Health,92
+162,1973,0.0034662,Health,93
+163,1974,0,Health,93
+164,1975,0,Health,94
+165,1976,0.0114504,Health,94
+166,1977,0.00653595,Health,95
+167,1978,0.00168919,Health,95
+168,1979,0.00282258,Health,96
+169,1980,0.00121102,Health,96
+170,1981,0,Health,97
+171,1982,0,Health,97
+172,1983,0,Health,98
+173,1984,0.0056802,Health,98
+174,1985,0.0316092,Health,99
+175,1986,0.0340426,Health,99
+176,1987,0.118768,Health,100
+177,1988,0,Health,100
+178,1989,0.346591,Health,101
+179,1990,0.194948,Health,101
+180,1991,0.117715,Health,102
+181,1992,0.0603632,Health,102
+182,1993,0.165593,Health,103
+183,1994,0.171603,Health,103
+184,1995,0.0640097,Health,104
+185,1996,0.0563045,Health,104
+186,1997,0.0646823,Health,105
+187,1998,0.0827645,Health,105
+188,1999,0.0698619,Health,106
+189,2000,0.0965133,Health,106
+190,2001,0.0564077,Health,107
+191,2002,0.0424261,Health,107
+192,2003,0.06124,Health,108
+193,2004,0.0778418,Health,108
+194,2005,0.0608832,Health,109
+195,2006,0.0568857,Health,109
+196,2007,0.0813977,Health,110
+197,2008,0.054918,Health,110
+198,2009,0.106596,Health,111
+199,2010,0.086434,Health,111
+200,2011,0.053268,Health,112
+201,2012,0.050035,Health,112
+202,1946,,Agriculture,79
+203,1947,0.0363086,Agriculture,80
+204,1948,0,Agriculture,80
+205,1949,0.000562746,Agriculture,81
+206,1950,0.00934579,Agriculture,81
+207,1951,0,Agriculture,82
+208,1952,0.00223214,Agriculture,82
+209,1953,,Agriculture,83
+210,1954,0,Agriculture,83
+211,1955,,Agriculture,84
+212,1956,0.0546448,Agriculture,84
+213,1957,0.0223285,Agriculture,85
+214,1958,0.00798802,Agriculture,85
+215,1959,0.00336417,Agriculture,86
+216,1960,0.0150056,Agriculture,86
+217,1961,0.00701565,Agriculture,87
+218,1962,0.0112613,Agriculture,87
+219,1963,0.00234742,Agriculture,88
+220,1964,0.00240385,Agriculture,88
+221,1965,0.00265887,Agriculture,89
+222,1966,0,Agriculture,89
+223,1967,0.00301205,Agriculture,90
+224,1968,0.00463789,Agriculture,90
+225,1969,0,Agriculture,91
+226,1970,0,Agriculture,91
+227,1971,0,Agriculture,92
+228,1972,0,Agriculture,92
+229,1973,0.00519931,Agriculture,93
+230,1974,0.00521739,Agriculture,93
+231,1975,0.0026178,Agriculture,94
+232,1976,0.00572519,Agriculture,94
+233,1977,0.00217865,Agriculture,95
+234,1978,0.00168919,Agriculture,95
+235,1979,0,Agriculture,96
+236,1980,0,Agriculture,96
+237,1981,0,Agriculture,97
+238,1982,0,Agriculture,97
+239,1983,0,Agriculture,98
+240,1984,0.00170406,Agriculture,98
+241,1985,0.00862069,Agriculture,99
+242,1986,0.0170213,Agriculture,99
+243,1987,0.00448179,Agriculture,100
+244,1988,0,Agriculture,100
+245,1989,0,Agriculture,101
+246,1990,0,Agriculture,101
+247,1991,0,Agriculture,102
+248,1992,0,Agriculture,102
+249,1993,0,Agriculture,103
+250,1994,0,Agriculture,103
+251,1995,0,Agriculture,104
+252,1996,0,Agriculture,104
+253,1997,0,Agriculture,105
+254,1998,0,Agriculture,105
+255,1999,0,Agriculture,106
+256,2000,0,Agriculture,106
+257,2001,0,Agriculture,107
+258,2002,0,Agriculture,107
+259,2003,0,Agriculture,108
+260,2004,0,Agriculture,108
+261,2005,0,Agriculture,109
+262,2006,0,Agriculture,109
+263,2007,0,Agriculture,110
+264,2008,0,Agriculture,110
+265,2009,0,Agriculture,111
+266,2010,0,Agriculture,111
+267,2011,0,Agriculture,112
+268,2012,0,Agriculture,112
+269,1946,,Labor,79
+270,1947,0.0544629,Labor,80
+271,1948,0.0352564,Labor,80
+272,1949,0.0517727,Labor,81
+273,1950,0.0397196,Labor,81
+274,1951,0,Labor,82
+275,1952,0.0446429,Labor,82
+276,1953,,Labor,83
+277,1954,0.0175439,Labor,83
+278,1955,,Labor,84
+279,1956,0.0174863,Labor,84
+280,1957,0.0151044,Labor,85
+281,1958,0.00500579,Labor,85
+282,1959,0.0357744,Labor,86
+283,1960,0.010149,Labor,86
+284,1961,0.00701565,Labor,87
+285,1962,0.00900901,Labor,87
+286,1963,0.00938967,Labor,88
+287,1964,0.00303559,Labor,88
+288,1965,0.0121442,Labor,89
+289,1966,0.0161963,Labor,89
+290,1967,0.0045811,Labor,90
+291,1968,0.00213258,Labor,90
+292,1969,0.00462963,Labor,91
+293,1970,0.0138648,Labor,91
+294,1971,0.0151188,Labor,92
+295,1972,0.00851064,Labor,92
+296,1973,0.0103986,Labor,93
+297,1974,0.00521739,Labor,93
+298,1975,0.0052356,Labor,94
+299,1976,0.0019084,Labor,94
+300,1977,0.0087146,Labor,95
+301,1978,0.0152027,Labor,95
+302,1979,0.00690524,Labor,96
+303,1980,0.00917763,Labor,96
+304,1981,0.00183698,Labor,97
+305,1982,0,Labor,97
+306,1983,0,Labor,98
+307,1984,0.00420957,Labor,98
+308,1985,0,Labor,99
+309,1986,0,Labor,99
+310,1987,0.00349365,Labor,100
+311,1988,0,Labor,100
+312,1989,0,Labor,101
+313,1990,0,Labor,101
+314,1991,0,Labor,102
+315,1992,0,Labor,102
+316,1993,0.00226767,Labor,103
+317,1994,0.00351517,Labor,103
+318,1995,0.0047367,Labor,104
+319,1996,0.00976849,Labor,104
+320,1997,0,Labor,105
+321,1998,0,Labor,105
+322,1999,0,Labor,106
+323,2000,0.0061844,Labor,106
+324,2001,0.0051831,Labor,107
+325,2002,0.00459309,Labor,107
+326,2003,0.00312989,Labor,108
+327,2004,0.00459833,Labor,108
+328,2005,0.00802792,Labor,109
+329,2006,0.00685383,Labor,109
+330,2007,0.00612592,Labor,110
+331,2008,0.00573042,Labor,110
+332,2009,0.00274342,Labor,111
+333,2010,0.00306267,Labor,111
+334,2011,0.00341008,Labor,112
+335,2012,0.00583475,Labor,112
+336,1946,,Education,79
+337,1947,0,Education,80
+338,1948,0,Education,80
+339,1949,0.00281373,Education,81
+340,1950,0.00233645,Education,81
+341,1951,0,Education,82
+342,1952,0.00223214,Education,82
+343,1953,,Education,83
+344,1954,0,Education,83
+345,1955,,Education,84
+346,1956,0.0153005,Education,84
+347,1957,0.015949,Education,85
+348,1958,0.017973,Education,85
+349,1959,0.00336417,Education,86
+350,1960,0.0105595,Education,86
+351,1961,0.00701565,Education,87
+352,1962,0.00506757,Education,87
+353,1963,0,Education,88
+354,1964,0.00774573,Education,88
+355,1965,0.011699,Education,89
+356,1966,0.00647948,Education,89
+357,1967,0.0060241,Education,90
+358,1968,0.00856225,Education,90
+359,1969,0.00925926,Education,91
+360,1970,0.00866551,Education,91
+361,1971,0.0107991,Education,92
+362,1972,0.012766,Education,92
+363,1973,0.00693241,Education,93
+364,1974,0.00347826,Education,93
+365,1975,0.0026178,Education,94
+366,1976,0.00381679,Education,94
+367,1977,0.0087146,Education,95
+368,1978,0.00844595,Education,95
+369,1979,0.00403226,Education,96
+370,1980,0.00242204,Education,96
+371,1981,0.000740192,Education,97
+372,1982,0,Education,97
+373,1983,0,Education,98
+374,1984,0.00681625,Education,98
+375,1985,0,Education,99
+376,1986,0,Education,99
+377,1987,0.00672269,Education,100
+378,1988,0,Education,100
+379,1989,0.0113636,Education,101
+380,1990,0.0181347,Education,101
+381,1991,0.038272,Education,102
+382,1992,0.0320513,Education,102
+383,1993,0.0331187,Education,103
+384,1994,0.0193175,Education,103
+385,1995,0.0289855,Education,104
+386,1996,0.0444092,Education,104
+387,1997,0.0641099,Education,105
+388,1998,0.0887372,Education,105
+389,1999,0.100731,Education,106
+390,2000,0.0984811,Education,106
+391,2001,0.0752306,Education,107
+392,2002,0.0404035,Education,107
+393,2003,0.0360125,Education,108
+394,2004,0.0337427,Education,108
+395,2005,0.0318222,Education,109
+396,2006,0.0309053,Education,109
+397,2007,0.0300144,Education,110
+398,2008,0.018169,Education,110
+399,2009,0.016506,Education,111
+400,2010,0.019677,Education,111
+401,2011,0.023161,Education,112
+402,2012,0.027332,Education,112
+403,1946,,Environment,79
+404,1947,0,Environment,80
+405,1948,0,Environment,80
+406,1949,0,Environment,81
+407,1950,0,Environment,81
+408,1951,0,Environment,82
+409,1952,0,Environment,82
+410,1953,,Environment,83
+411,1954,0,Environment,83
+412,1955,,Environment,84
+413,1956,0,Environment,84
+414,1957,0,Environment,85
+415,1958,0,Environment,85
+416,1959,0,Environment,86
+417,1960,0,Environment,86
+418,1961,0,Environment,87
+419,1962,0,Environment,87
+420,1963,0,Environment,88
+421,1964,0,Environment,88
+422,1965,0,Environment,89
+423,1966,0,Environment,89
+424,1967,0,Environment,90
+425,1968,0,Environment,90
+426,1969,0,Environment,91
+427,1970,0.0329289,Environment,91
+428,1971,0.0388769,Environment,92
+429,1972,0.0283688,Environment,92
+430,1973,0.0259965,Environment,93
+431,1974,0.00695652,Environment,93
+432,1975,0.0078534,Environment,94
+433,1976,0.00572519,Environment,94
+434,1977,0.0152505,Environment,95
+435,1978,0.00675676,Environment,95
+436,1979,0.00564516,Environment,96
+437,1980,0.00121102,Environment,96
+438,1981,0.00148038,Environment,97
+439,1982,0,Environment,97
+440,1983,0.00176913,Environment,98
+441,1984,0.00681625,Environment,98
+442,1985,0,Environment,99
+443,1986,0,Environment,99
+444,1987,0.00448179,Environment,100
+445,1988,0,Environment,100
+446,1989,0.0378788,Environment,101
+447,1990,0.0440415,Environment,101
+448,1991,0.0173963,Environment,102
+449,1992,0.034188,Environment,102
+450,1993,0.0110396,Environment,103
+451,1994,0.00547328,Environment,103
+452,1995,0.00241546,Environment,104
+453,1996,0.00713719,Environment,104
+454,1997,0.0137378,Environment,105
+455,1998,0.0102389,Environment,105
+456,1999,0.0129976,Environment,106
+457,2000,0.0155106,Environment,106
+458,2001,0.0222072,Environment,107
+459,2002,0.0141245,Environment,107
+460,2003,0.00946563,Environment,108
+461,2004,0.011149,Environment,108
+462,2005,0.00953678,Environment,109
+463,2006,0.0132285,Environment,109
+464,2007,0.0193441,Environment,110
+465,2008,0.01172,Environment,110
+466,2009,0.011916,Environment,111
+467,2010,0.01128,Environment,111
+468,2011,0.00742,Environment,112
+469,2012,0.008328,Environment,112
+470,1946,,Energy,79
+471,1947,0.00302572,Energy,80
+472,1948,0,Energy,80
+473,1949,0.00225098,Energy,81
+474,1950,0,Energy,81
+475,1951,0,Energy,82
+476,1952,0,Energy,82
+477,1953,,Energy,83
+478,1954,0,Energy,83
+479,1955,,Energy,84
+480,1956,0,Energy,84
+481,1957,0.00318979,Energy,85
+482,1958,0,Energy,85
+483,1959,0,Energy,86
+484,1960,0,Energy,86
+485,1961,0,Energy,87
+486,1962,0,Energy,87
+487,1963,0,Energy,88
+488,1964,0,Energy,88
+489,1965,0,Energy,89
+490,1966,0,Energy,89
+491,1967,0,Energy,90
+492,1968,0,Energy,90
+493,1969,0,Energy,91
+494,1970,0,Energy,91
+495,1971,0,Energy,92
+496,1972,0,Energy,92
+497,1973,0.0121317,Energy,93
+498,1974,0.10087,Energy,93
+499,1975,0.0575916,Energy,94
+500,1976,0.0209924,Energy,94
+501,1977,0.12854,Energy,95
+502,1978,0.0810811,Energy,95
+503,1979,0.200403,Energy,96
+504,1980,0.071753,Energy,96
+505,1981,0.0451517,Energy,97
+506,1982,0.0056366,Energy,97
+507,1983,0.00530739,Energy,98
+508,1984,0.00198807,Energy,98
+509,1985,0,Energy,99
+510,1986,0,Energy,99
+511,1987,0,Energy,100
+512,1988,0,Energy,100
+513,1989,0,Energy,101
+514,1990,0.0103627,Energy,101
+515,1991,0.00260945,Energy,102
+516,1992,0,Energy,102
+517,1993,0,Energy,103
+518,1994,0,Energy,103
+519,1995,0,Energy,104
+520,1996,0,Energy,104
+521,1997,0,Energy,105
+522,1998,0,Energy,105
+523,1999,0,Energy,106
+524,2000,0.0290623,Energy,106
+525,2001,0.0369592,Energy,107
+526,2002,0.00835236,Energy,107
+527,2003,0.00907243,Energy,108
+528,2004,0.0177609,Energy,108
+529,2005,0.050466,Energy,109
+530,2006,0.0720766,Energy,109
+531,2007,0.0416619,Energy,110
+532,2008,0.090888,Energy,110
+533,2009,0.012042,Energy,111
+534,2010,0.013929,Energy,111
+535,2011,0.025446,Energy,112
+536,2012,0.02216,Energy,112
+537,1946,,Immigration,79
+538,1947,0,Immigration,80
+539,1948,0,Immigration,80
+540,1949,0,Immigration,81
+541,1950,0,Immigration,81
+542,1951,0,Immigration,82
+543,1952,0,Immigration,82
+544,1953,,Immigration,83
+545,1954,0,Immigration,83
+546,1955,,Immigration,84
+547,1956,0,Immigration,84
+548,1957,0.00164204,Immigration,85
+549,1958,0.000985222,Immigration,85
+550,1959,0.00123153,Immigration,86
+551,1960,0.000410509,Immigration,86
+552,1961,0,Immigration,87
+553,1962,0,Immigration,87
+554,1963,0,Immigration,88
+555,1964,0.00070373,Immigration,88
+556,1965,0.000618429,Immigration,89
+557,1966,0.00108225,Immigration,89
+558,1967,0.001443,Immigration,90
+559,1968,0.000721501,Immigration,90
+560,1969,0,Immigration,91
+561,1970,0,Immigration,91
+562,1971,0,Immigration,92
+563,1972,0,Immigration,92
+564,1973,0,Immigration,93
+565,1974,0,Immigration,93
+566,1975,0,Immigration,94
+567,1976,0,Immigration,94
+568,1977,0,Immigration,95
+569,1978,0,Immigration,95
+570,1979,0.0015625,Immigration,96
+571,1980,0.00111607,Immigration,96
+572,1981,0.00260417,Immigration,97
+573,1982,0,Immigration,97
+574,1983,0,Immigration,98
+575,1984,0.00147063,Immigration,98
+576,1985,0.00131752,Immigration,99
+577,1986,0,Immigration,99
+578,1987,0.000988142,Immigration,100
+579,1988,0,Immigration,100
+580,1989,0,Immigration,101
+581,1990,0,Immigration,101
+582,1991,0.000494071,Immigration,102
+583,1992,0,Immigration,102
+584,1993,0.00877193,Immigration,103
+585,1994,0.00292398,Immigration,103
+586,1995,0.0097561,Immigration,104
+587,1996,0.00926401,Immigration,104
+588,1997,0.0204776,Immigration,105
+589,1998,0.0157304,Immigration,105
+590,1999,0.00701558,Immigration,106
+591,2000,0.0088646,Immigration,106
+592,2001,0.0154845,Immigration,107
+593,2002,0.0170912,Immigration,107
+594,2003,0.0111,Immigration,108
+595,2004,0.0143502,Immigration,108
+596,2005,0.027752,Immigration,109
+597,2006,0.0670726,Immigration,109
+598,2007,0.0688087,Immigration,110
+599,2008,0.0318953,Immigration,110
+600,2009,0.0122263,Immigration,111
+601,2010,0.0322873,Immigration,111
+602,2011,0.0260122,Immigration,112
+603,2012,0.0209647,Immigration,112
+604,1946,,Transportation,79
+605,1947,0,Transportation,80
+606,1948,0,Transportation,80
+607,1949,0,Transportation,81
+608,1950,0.00233645,Transportation,81
+609,1951,0,Transportation,82
+610,1952,0.00223214,Transportation,82
+611,1953,,Transportation,83
+612,1954,0,Transportation,83
+613,1955,,Transportation,84
+614,1956,0.0010929,Transportation,84
+615,1957,0,Transportation,85
+616,1958,0,Transportation,85
+617,1959,0,Transportation,86
+618,1960,0,Transportation,86
+619,1961,0,Transportation,87
+620,1962,0,Transportation,87
+621,1963,0,Transportation,88
+622,1964,0.00160256,Transportation,88
+623,1965,0,Transportation,89
+624,1966,0,Transportation,89
+625,1967,0,Transportation,90
+626,1968,0,Transportation,90
+627,1969,0,Transportation,91
+628,1970,0,Transportation,91
+629,1971,0,Transportation,92
+630,1972,0,Transportation,92
+631,1973,0,Transportation,93
+632,1974,0,Transportation,93
+633,1975,0,Transportation,94
+634,1976,0,Transportation,94
+635,1977,0,Transportation,95
+636,1978,0,Transportation,95
+637,1979,0.00120968,Transportation,96
+638,1980,0.00060551,Transportation,96
+639,1981,0,Transportation,97
+640,1982,0,Transportation,97
+641,1983,0,Transportation,98
+642,1984,0,Transportation,98
+643,1985,0,Transportation,99
+644,1986,0,Transportation,99
+645,1987,0,Transportation,100
+646,1988,0,Transportation,100
+647,1989,0,Transportation,101
+648,1990,0,Transportation,101
+649,1991,0,Transportation,102
+650,1992,0,Transportation,102
+651,1993,0,Transportation,103
+652,1994,0,Transportation,103
+653,1995,0,Transportation,104
+654,1996,0,Transportation,104
+655,1997,0,Transportation,105
+656,1998,0,Transportation,105
+657,1999,0,Transportation,106
+658,2000,0,Transportation,106
+659,2001,0,Transportation,107
+660,2002,0,Transportation,107
+661,2003,0,Transportation,108
+662,2004,0,Transportation,108
+663,2005,0,Transportation,109
+664,2006,0,Transportation,109
+665,2007,0,Transportation,110
+666,2008,0,Transportation,110
+667,2009,0,Transportation,111
+668,2010,0,Transportation,111
+669,2011,0,Transportation,112
+670,2012,0,Transportation,112
+671,1946,,Crime,79
+672,1947,0.00075643,Crime,80
+673,1948,0,Crime,80
+674,1949,0.0073157,Crime,81
+675,1950,0.00934579,Crime,81
+676,1951,0.00952381,Crime,82
+677,1952,0.00892857,Crime,82
+678,1953,,Crime,83
+679,1954,0.0175439,Crime,83
+680,1955,,Crime,84
+681,1956,0.0169399,Crime,84
+682,1957,0.0295056,Crime,85
+683,1958,0.00798802,Crime,85
+684,1959,0.00336417,Crime,86
+685,1960,0.0272323,Crime,86
+686,1961,0.00755532,Crime,87
+687,1962,0.0168919,Crime,87
+688,1963,0.00234742,Crime,88
+689,1964,0.0194979,Crime,88
+690,1965,0.023398,Crime,89
+691,1966,0.0172786,Crime,89
+692,1967,0.156627,Crime,90
+693,1968,0.192651,Crime,90
+694,1969,0.111111,Crime,91
+695,1970,0.114385,Crime,91
+696,1971,0.12959,Crime,92
+697,1972,0.150355,Crime,92
+698,1973,0.136915,Crime,93
+699,1974,0.0452174,Crime,93
+700,1975,0.078534,Crime,94
+701,1976,0.0667939,Crime,94
+702,1977,0.100218,Crime,95
+703,1978,0.0456081,Crime,95
+704,1979,0.0427419,Crime,96
+705,1980,0.0323948,Crime,96
+706,1981,0.0466321,Crime,97
+707,1982,0.0265252,Crime,97
+708,1983,0.0194604,Crime,98
+709,1984,0.0249929,Crime,98
+710,1985,0.0316092,Crime,99
+711,1986,0.0255319,Crime,99
+712,1987,0.0291317,Crime,100
+713,1988,0.11,Crime,100
+714,1989,0.0340909,Crime,101
+715,1990,0.0181347,Crime,101
+716,1991,0.0397217,Crime,102
+717,1992,0.0405983,Crime,102
+718,1993,0.0919963,Crime,103
+719,1994,0.286542,Crime,103
+720,1995,0.222222,Crime,104
+721,1996,0.171293,Crime,104
+722,1997,0.226674,Crime,105
+723,1998,0.25256,Crime,105
+724,1999,0.316003,Crime,106
+725,2000,0.287701,Crime,106
+726,2001,0.178454,Crime,107
+727,2002,0.114259,Crime,107
+728,2003,0.0936099,Crime,108
+729,2004,0.083737,Crime,108
+730,2005,0.0853273,Crime,109
+731,2006,0.0352409,Crime,109
+732,2007,0.0752006,Crime,110
+733,2008,0.048286,Crime,110
+734,2009,0.045308,Crime,111
+735,2010,0.047885,Crime,111
+736,2011,0.045226,Crime,112
+737,2012,0.056142,Crime,112
+738,1946,,Social Welfare,79
+739,1947,0,Social Welfare,80
+740,1948,0,Social Welfare,80
+741,1949,0.000562746,Social Welfare,81
+742,1950,0,Social Welfare,81
+743,1951,0,Social Welfare,82
+744,1952,0,Social Welfare,82
+745,1953,,Social Welfare,83
+746,1954,0,Social Welfare,83
+747,1955,,Social Welfare,84
+748,1956,0,Social Welfare,84
+749,1957,0.0015949,Social Welfare,85
+750,1958,0,Social Welfare,85
+751,1959,0,Social Welfare,86
+752,1960,0.00778066,Social Welfare,86
+753,1961,0.00539665,Social Welfare,87
+754,1962,0.0112613,Social Welfare,87
+755,1963,0,Social Welfare,88
+756,1964,0.0216346,Social Welfare,88
+757,1965,0.0194097,Social Welfare,89
+758,1966,0.0151188,Social Welfare,89
+759,1967,0.0240964,Social Welfare,90
+760,1968,0.0249732,Social Welfare,90
+761,1969,0.037037,Social Welfare,91
+762,1970,0.0207972,Social Welfare,91
+763,1971,0.0388769,Social Welfare,92
+764,1972,0.0496454,Social Welfare,92
+765,1973,0.0433276,Social Welfare,93
+766,1974,0.0156522,Social Welfare,93
+767,1975,0.0287958,Social Welfare,94
+768,1976,0.0229008,Social Welfare,94
+769,1977,0.0501089,Social Welfare,95
+770,1978,0.0388514,Social Welfare,95
+771,1979,0.0169355,Social Welfare,96
+772,1980,0.0139267,Social Welfare,96
+773,1981,0.0170244,Social Welfare,97
+774,1982,0,Social Welfare,97
+775,1983,0,Social Welfare,98
+776,1984,0.0252769,Social Welfare,98
+777,1985,0.0488506,Social Welfare,99
+778,1986,0.0680851,Social Welfare,99
+779,1987,0.0582633,Social Welfare,100
+780,1988,0.07,Social Welfare,100
+781,1989,0.0776515,Social Welfare,101
+782,1990,0.0725389,Social Welfare,101
+783,1991,0.0985793,Social Welfare,102
+784,1992,0.0598291,Social Welfare,102
+785,1993,0.0515179,Social Welfare,103
+786,1994,0.0489375,Social Welfare,103
+787,1995,0.120773,Social Welfare,104
+788,1996,0.0888184,Social Welfare,104
+789,1997,0.105323,Social Welfare,105
+790,1998,0.0887372,Social Welfare,105
+791,1999,0.074736,Social Welfare,106
+792,2000,0.0678339,Social Welfare,106
+793,2001,0.0496544,Social Welfare,107
+794,2002,0.0471088,Social Welfare,107
+795,2003,0.0425526,Social Welfare,108
+796,2004,0.0380284,Social Welfare,108
+797,2005,0.084605,Social Welfare,109
+798,2006,0.0511395,Social Welfare,109
+799,2007,0.0523821,Social Welfare,110
+800,2008,0.0303,Social Welfare,110
+801,2009,0.024907,Social Welfare,111
+802,2010,0.032357,Social Welfare,111
+803,2011,0.039257,Social Welfare,112
+804,2012,0.038683,Social Welfare,112
+805,1946,,Housing & Development,79
+806,1947,0.0453858,Housing & Development,80
+807,1948,0.0352564,Housing & Development,80
+808,1949,0.0450197,Housing & Development,81
+809,1950,0.0280374,Housing & Development,81
+810,1951,0,Housing & Development,82
+811,1952,0.00223214,Housing & Development,82
+812,1953,,Housing & Development,83
+813,1954,0,Housing & Development,83
+814,1955,,Housing & Development,84
+815,1956,0.00819672,Housing & Development,84
+816,1957,0,Housing & Development,85
+817,1958,0,Housing & Development,85
+818,1959,0,Housing & Development,86
+819,1960,0,Housing & Development,86
+820,1961,0,Housing & Development,87
+821,1962,0,Housing & Development,87
+822,1963,0,Housing & Development,88
+823,1964,0.00106838,Housing & Development,88
+824,1965,0.00132943,Housing & Development,89
+825,1966,0.00215983,Housing & Development,89
+826,1967,0,Housing & Development,90
+827,1968,0.00321085,Housing & Development,90
+828,1969,0.00462963,Housing & Development,91
+829,1970,0.0017331,Housing & Development,91
+830,1971,0.00431965,Housing & Development,92
+831,1972,0.00425532,Housing & Development,92
+832,1973,0.00519931,Housing & Development,93
+833,1974,0,Housing & Development,93
+834,1975,0,Housing & Development,94
+835,1976,0,Housing & Development,94
+836,1977,0.0043573,Housing & Development,95
+837,1978,0,Housing & Development,95
+838,1979,0.0016129,Housing & Development,96
+839,1980,0.00151378,Housing & Development,96
+840,1981,0.000740192,Housing & Development,97
+841,1982,0,Housing & Development,97
+842,1983,0,Housing & Development,98
+843,1984,0.000852031,Housing & Development,98
+844,1985,0,Housing & Development,99
+845,1986,0,Housing & Development,99
+846,1987,0,Housing & Development,100
+847,1988,0,Housing & Development,100
+848,1989,0,Housing & Development,101
+849,1990,0,Housing & Development,101
+850,1991,0,Housing & Development,102
+851,1992,0,Housing & Development,102
+852,1993,0,Housing & Development,103
+853,1994,0,Housing & Development,103
+854,1995,0,Housing & Development,104
+855,1996,0,Housing & Development,104
+856,1997,0,Housing & Development,105
+857,1998,0,Housing & Development,105
+858,1999,0,Housing & Development,106
+859,2000,0,Housing & Development,106
+860,2001,0,Housing & Development,107
+861,2002,0,Housing & Development,107
+862,2003,0,Housing & Development,108
+863,2004,0,Housing & Development,108
+864,2005,0,Housing & Development,109
+865,2006,0,Housing & Development,109
+866,2007,0,Housing & Development,110
+867,2008,0,Housing & Development,110
+868,2009,0,Housing & Development,111
+869,2010,0,Housing & Development,111
+870,2011,0,Housing & Development,112
+871,2012,0,Housing & Development,112
+872,1946,,Domestic Commerce,79
+873,1947,0,Domestic Commerce,80
+874,1948,0,Domestic Commerce,80
+875,1949,0.000562746,Domestic Commerce,81
+876,1950,0,Domestic Commerce,81
+877,1951,0,Domestic Commerce,82
+878,1952,0,Domestic Commerce,82
+879,1953,,Domestic Commerce,83
+880,1954,0,Domestic Commerce,83
+881,1955,,Domestic Commerce,84
+882,1956,0.00382514,Domestic Commerce,84
+883,1957,0,Domestic Commerce,85
+884,1958,0,Domestic Commerce,85
+885,1959,0,Domestic Commerce,86
+886,1960,0,Domestic Commerce,86
+887,1961,0,Domestic Commerce,87
+888,1962,0,Domestic Commerce,87
+889,1963,0,Domestic Commerce,88
+890,1964,0.00106838,Domestic Commerce,88
+891,1965,0,Domestic Commerce,89
+892,1966,0,Domestic Commerce,89
+893,1967,0,Domestic Commerce,90
+894,1968,0,Domestic Commerce,90
+895,1969,0,Domestic Commerce,91
+896,1970,0,Domestic Commerce,91
+897,1971,0,Domestic Commerce,92
+898,1972,0,Domestic Commerce,92
+899,1973,0,Domestic Commerce,93
+900,1974,0,Domestic Commerce,93
+901,1975,0,Domestic Commerce,94
+902,1976,0,Domestic Commerce,94
+903,1977,0,Domestic Commerce,95
+904,1978,0,Domestic Commerce,95
+905,1979,0,Domestic Commerce,96
+906,1980,0,Domestic Commerce,96
+907,1981,0,Domestic Commerce,97
+908,1982,0,Domestic Commerce,97
+909,1983,0,Domestic Commerce,98
+910,1984,0,Domestic Commerce,98
+911,1985,0,Domestic Commerce,99
+912,1986,0,Domestic Commerce,99
+913,1987,0,Domestic Commerce,100
+914,1988,0,Domestic Commerce,100
+915,1989,0,Domestic Commerce,101
+916,1990,0.00259067,Domestic Commerce,101
+917,1991,0,Domestic Commerce,102
+918,1992,0,Domestic Commerce,102
+919,1993,0,Domestic Commerce,103
+920,1994,0,Domestic Commerce,103
+921,1995,0,Domestic Commerce,104
+922,1996,0,Domestic Commerce,104
+923,1997,0,Domestic Commerce,105
+924,1998,0,Domestic Commerce,105
+925,1999,0,Domestic Commerce,106
+926,2000,0,Domestic Commerce,106
+927,2001,0,Domestic Commerce,107
+928,2002,0.0137876,Domestic Commerce,107
+929,2003,0.00559528,Domestic Commerce,108
+930,2004,0.00402042,Domestic Commerce,108
+931,2005,0.0193298,Domestic Commerce,109
+932,2006,0.0113785,Domestic Commerce,109
+933,2007,0.00792724,Domestic Commerce,110
+934,2008,0.007701,Domestic Commerce,110
+935,2009,0.007114,Domestic Commerce,111
+936,2010,0.025014,Domestic Commerce,111
+937,2011,0.008804,Domestic Commerce,112
+938,2012,0.006797,Domestic Commerce,112
+939,1946,,Defense,79
+940,1947,0.114977,Defense,80
+941,1948,0.224359,Defense,80
+942,1949,0.177828,Defense,81
+943,1950,0.0747664,Defense,81
+944,1951,0.0190476,Defense,82
+945,1952,0.205357,Defense,82
+946,1953,,Defense,83
+947,1954,0.131579,Defense,83
+948,1955,,Defense,84
+949,1956,0.250273,Defense,84
+950,1957,0.236045,Defense,85
+951,1958,0.371443,Defense,85
+952,1959,0.470984,Defense,86
+953,1960,0.218044,Defense,86
+954,1961,0.215327,Defense,87
+955,1962,0.246622,Defense,87
+956,1963,0.215962,Defense,88
+957,1964,0.158921,Defense,88
+958,1965,0.358947,Defense,89
+959,1966,0.460043,Defense,89
+960,1967,0.451807,Defense,90
+961,1968,0.399572,Defense,90
+962,1969,0.407407,Defense,91
+963,1970,0.254766,Defense,91
+964,1971,0.241901,Defense,92
+965,1972,0.276596,Defense,92
+966,1973,0.0953206,Defense,93
+967,1974,0.00695652,Defense,93
+968,1975,0.0052356,Defense,94
+969,1976,0.0152672,Defense,94
+970,1977,0.0283224,Defense,95
+971,1978,0.0253378,Defense,95
+972,1979,0.0225806,Defense,96
+973,1980,0.061762,Defense,96
+974,1981,0.0510733,Defense,97
+975,1982,0.0580239,Defense,97
+976,1983,0.186201,Defense,98
+977,1984,0.182619,Defense,98
+978,1985,0.201149,Defense,99
+979,1986,0.221277,Defense,99
+980,1987,0.139496,Defense,100
+981,1988,0.09,Defense,100
+982,1989,0.0208333,Defense,101
+983,1990,0.0259067,Defense,101
+984,1991,0.0162366,Defense,102
+985,1992,0.00267094,Defense,102
+986,1993,0.000919963,Defense,103
+987,1994,0.000965872,Defense,103
+988,1995,0.00120773,Defense,104
+989,1996,0,Defense,104
+990,1997,0,Defense,105
+991,1998,0.00341297,Defense,105
+992,1999,0.0129976,Defense,106
+993,2000,0.0194243,Defense,106
+994,2001,0.145857,Defense,107
+995,2002,0.271591,Defense,107
+996,2003,0.219876,Defense,108
+997,2004,0.272742,Defense,108
+998,2005,0.248262,Defense,109
+999,2006,0.213121,Defense,109
+1000,2007,0.292518,Defense,110
+1001,2008,0.143016,Defense,110
+1002,2009,0.075059,Defense,111
+1003,2010,0.065662,Defense,111
+1004,2011,0.048431,Defense,112
+1005,2012,0.033017,Defense,112
+1006,1946,,Science & Technology,79
+1007,1947,0,Science & Technology,80
+1008,1948,0,Science & Technology,80
+1009,1949,0,Science & Technology,81
+1010,1950,0,Science & Technology,81
+1011,1951,0,Science & Technology,82
+1012,1952,0,Science & Technology,82
+1013,1953,,Science & Technology,83
+1014,1954,0,Science & Technology,83
+1015,1955,,Science & Technology,84
+1016,1956,0,Science & Technology,84
+1017,1957,0.0191388,Science & Technology,85
+1018,1958,0.0389416,Science & Technology,85
+1019,1959,0.00336417,Science & Technology,86
+1020,1960,0.0100037,Science & Technology,86
+1021,1961,0.00323799,Science & Technology,87
+1022,1962,0.00957207,Science & Technology,87
+1023,1963,0,Science & Technology,88
+1024,1964,0.0042735,Science & Technology,88
+1025,1965,0.00159532,Science & Technology,89
+1026,1966,0,Science & Technology,89
+1027,1967,0,Science & Technology,90
+1028,1968,0,Science & Technology,90
+1029,1969,0,Science & Technology,91
+1030,1970,0,Science & Technology,91
+1031,1971,0.00215983,Science & Technology,92
+1032,1972,0,Science & Technology,92
+1033,1973,0,Science & Technology,93
+1034,1974,0,Science & Technology,93
+1035,1975,0,Science & Technology,94
+1036,1976,0,Science & Technology,94
+1037,1977,0,Science & Technology,95
+1038,1978,0,Science & Technology,95
+1039,1979,0,Science & Technology,96
+1040,1980,0,Science & Technology,96
+1041,1981,0,Science & Technology,97
+1042,1982,0,Science & Technology,97
+1043,1983,0,Science & Technology,98
+1044,1984,0,Science & Technology,98
+1045,1985,0,Science & Technology,99
+1046,1986,0,Science & Technology,99
+1047,1987,0,Science & Technology,100
+1048,1988,0,Science & Technology,100
+1049,1989,0,Science & Technology,101
+1050,1990,0,Science & Technology,101
+1051,1991,0,Science & Technology,102
+1052,1992,0,Science & Technology,102
+1053,1993,0,Science & Technology,103
+1054,1994,0,Science & Technology,103
+1055,1995,0,Science & Technology,104
+1056,1996,0,Science & Technology,104
+1057,1997,0,Science & Technology,105
+1058,1998,0.00341297,Science & Technology,105
+1059,1999,0.00812348,Science & Technology,106
+1060,2000,0,Science & Technology,106
+1061,2001,0.0070886,Science & Technology,107
+1062,2002,0.00435374,Science & Technology,107
+1063,2003,0.00586273,Science & Technology,108
+1064,2004,0.00515817,Science & Technology,108
+1065,2005,0.00497917,Science & Technology,109
+1066,2006,0.00568558,Science & Technology,109
+1067,2007,0.00579987,Science & Technology,110
+1068,2008,0.003914,Science & Technology,110
+1069,2009,0.00241,Science & Technology,111
+1070,2010,0.003878,Science & Technology,111
+1071,2011,0.004254,Science & Technology,112
+1072,2012,0.004829,Science & Technology,112
+1073,1946,,Foreign Trade,79
+1074,1947,0,Foreign Trade,80
+1075,1948,0,Foreign Trade,80
+1076,1949,0,Foreign Trade,81
+1077,1950,0,Foreign Trade,81
+1078,1951,0,Foreign Trade,82
+1079,1952,0,Foreign Trade,82
+1080,1953,,Foreign Trade,83
+1081,1954,0,Foreign Trade,83
+1082,1955,,Foreign Trade,84
+1083,1956,0,Foreign Trade,84
+1084,1957,0,Foreign Trade,85
+1085,1958,0,Foreign Trade,85
+1086,1959,0,Foreign Trade,86
+1087,1960,0,Foreign Trade,86
+1088,1961,0,Foreign Trade,87
+1089,1962,0,Foreign Trade,87
+1090,1963,0,Foreign Trade,88
+1091,1964,0,Foreign Trade,88
+1092,1965,0,Foreign Trade,89
+1093,1966,0,Foreign Trade,89
+1094,1967,0,Foreign Trade,90
+1095,1968,0,Foreign Trade,90
+1096,1969,0,Foreign Trade,91
+1097,1970,0,Foreign Trade,91
+1098,1971,0,Foreign Trade,92
+1099,1972,0,Foreign Trade,92
+1100,1973,0,Foreign Trade,93
+1101,1974,0,Foreign Trade,93
+1102,1975,0,Foreign Trade,94
+1103,1976,0,Foreign Trade,94
+1104,1977,0,Foreign Trade,95
+1105,1978,0,Foreign Trade,95
+1106,1979,0,Foreign Trade,96
+1107,1980,0,Foreign Trade,96
+1108,1981,0,Foreign Trade,97
+1109,1982,0,Foreign Trade,97
+1110,1983,0,Foreign Trade,98
+1111,1984,0.00482817,Foreign Trade,98
+1112,1985,0.0143678,Foreign Trade,99
+1113,1986,0,Foreign Trade,99
+1114,1987,0.022409,Foreign Trade,100
+1115,1988,0,Foreign Trade,100
+1116,1989,0.0189394,Foreign Trade,101
+1117,1990,0.0129534,Foreign Trade,101
+1118,1991,0.0101479,Foreign Trade,102
+1119,1992,0.0149573,Foreign Trade,102
+1120,1993,0.0147194,Foreign Trade,103
+1121,1994,0.00643915,Foreign Trade,103
+1122,1995,0.00966184,Foreign Trade,104
+1123,1996,0.00237906,Foreign Trade,104
+1124,1997,0.00744133,Foreign Trade,105
+1125,1998,0.00682594,Foreign Trade,105
+1126,1999,0.00649878,Foreign Trade,106
+1127,2000,0.00588836,Foreign Trade,106
+1128,2001,0.00370249,Foreign Trade,107
+1129,2002,0,Foreign Trade,107
+1130,2003,0.00161616,Foreign Trade,108
+1131,2004,0.00542447,Foreign Trade,108
+1132,2005,0.00494747,Foreign Trade,109
+1133,2006,0.00478631,Foreign Trade,109
+1134,2007,0.00456134,Foreign Trade,110
+1135,2008,0.003528,Foreign Trade,110
+1136,2009,0.003959,Foreign Trade,111
+1137,2010,0.004042,Foreign Trade,111
+1138,2011,0.004276,Foreign Trade,112
+1139,2012,0.002419,Foreign Trade,112
+1140,1946,,International Affairs,79
+1141,1947,0.227685,International Affairs,80
+1142,1948,0.333333,International Affairs,80
+1143,1949,0.158132,International Affairs,81
+1144,1950,0.364486,International Affairs,81
+1145,1951,0.533333,International Affairs,82
+1146,1952,0.339286,International Affairs,82
+1147,1953,,International Affairs,83
+1148,1954,0.210526,International Affairs,83
+1149,1955,,International Affairs,84
+1150,1956,0.185792,International Affairs,84
+1151,1957,0.188198,International Affairs,85
+1152,1958,0.0738892,International Affairs,85
+1153,1959,0.0100925,International Affairs,86
+1154,1960,0.418303,International Affairs,86
+1155,1961,0.432272,International Affairs,87
+1156,1962,0.333333,International Affairs,87
+1157,1963,0.028169,International Affairs,88
+1158,1964,0.142628,International Affairs,88
+1159,1965,0.144111,International Affairs,89
+1160,1966,0.049676,International Affairs,89
+1161,1967,0.0481928,International Affairs,90
+1162,1968,0.0271138,International Affairs,90
+1163,1969,0.0277778,International Affairs,91
+1164,1970,0.0467938,International Affairs,91
+1165,1971,0.0151188,International Affairs,92
+1166,1972,0.0156028,International Affairs,92
+1167,1973,0.0294627,International Affairs,93
+1168,1974,0.0278261,International Affairs,93
+1169,1975,0.0314136,International Affairs,94
+1170,1976,0.0419847,International Affairs,94
+1171,1977,0.0457516,International Affairs,95
+1172,1978,0.0422297,International Affairs,95
+1173,1979,0.0431452,International Affairs,96
+1174,1980,0.101726,International Affairs,96
+1175,1981,0.0303479,International Affairs,97
+1176,1982,0.0251989,International Affairs,97
+1177,1983,0.0424591,International Affairs,98
+1178,1984,0.056518,International Affairs,98
+1179,1985,0,International Affairs,99
+1180,1986,0,International Affairs,99
+1181,1987,0.042577,International Affairs,100
+1182,1988,0,International Affairs,100
+1183,1989,0.0227273,International Affairs,101
+1184,1990,0.0880829,International Affairs,101
+1185,1991,0.0971296,International Affairs,102
+1186,1992,0.0176282,International Affairs,102
+1187,1993,0.0404784,International Affairs,103
+1188,1994,0.0206053,International Affairs,103
+1189,1995,0.0289855,International Affairs,104
+1190,1996,0.0483743,International Affairs,104
+1191,1997,0.0457928,International Affairs,105
+1192,1998,0.0477816,International Affairs,105
+1193,1999,0.0991064,International Affairs,106
+1194,2000,0.0315963,International Affairs,106
+1195,2001,0.0365268,International Affairs,107
+1196,2002,0.0379488,International Affairs,107
+1197,2003,0.0473814,International Affairs,108
+1198,2004,0.0325206,International Affairs,108
+1199,2005,0.0343109,International Affairs,109
+1200,2006,0.0994156,International Affairs,109
+1201,2007,0.0312389,International Affairs,110
+1202,2008,0.033728,International Affairs,110
+1203,2009,0.032603,International Affairs,111
+1204,2010,0.033658,International Affairs,111
+1205,2011,0.03209,International Affairs,112
+1206,2012,0.030306,International Affairs,112
+1207,1946,,Government Operations,79
+1208,1947,0,Government Operations,80
+1209,1948,0.0288462,Government Operations,80
+1210,1949,0.0360158,Government Operations,81
+1211,1950,0.0280374,Government Operations,81
+1212,1951,0.0285714,Government Operations,82
+1213,1952,0.0535714,Government Operations,82
+1214,1953,,Government Operations,83
+1215,1954,0,Government Operations,83
+1216,1955,,Government Operations,84
+1217,1956,0.00928962,Government Operations,84
+1218,1957,0.000797448,Government Operations,85
+1219,1958,0,Government Operations,85
+1220,1959,0,Government Operations,86
+1221,1960,0.0142645,Government Operations,86
+1222,1961,0.00485699,Government Operations,87
+1223,1962,0.0118243,Government Operations,87
+1224,1963,0,Government Operations,88
+1225,1964,0.00641026,Government Operations,88
+1226,1965,0.0109014,Government Operations,89
+1227,1966,0.0151188,Government Operations,89
+1228,1967,0.0180723,Government Operations,90
+1229,1968,0.0221192,Government Operations,90
+1230,1969,0.00925926,Government Operations,91
+1231,1970,0.0363951,Government Operations,91
+1232,1971,0.0345572,Government Operations,92
+1233,1972,0.0539007,Government Operations,92
+1234,1973,0.0918544,Government Operations,93
+1235,1974,0.135652,Government Operations,93
+1236,1975,0.078534,Government Operations,94
+1237,1976,0.103053,Government Operations,94
+1238,1977,0.0305011,Government Operations,95
+1239,1978,0.0388514,Government Operations,95
+1240,1979,0.0387097,Government Operations,96
+1241,1980,0.0448078,Government Operations,96
+1242,1981,0.019245,Government Operations,97
+1243,1982,0.0106101,Government Operations,97
+1244,1983,0.0123839,Government Operations,98
+1245,1984,0.0207327,Government Operations,98
+1246,1985,0,Government Operations,99
+1247,1986,0,Government Operations,99
+1248,1987,0.0358543,Government Operations,100
+1249,1988,0,Government Operations,100
+1250,1989,0.0137311,Government Operations,101
+1251,1990,0.0233161,Government Operations,101
+1252,1991,0.018846,Government Operations,102
+1253,1992,0.034188,Government Operations,102
+1254,1993,0.0294388,Government Operations,103
+1255,1994,0.0206053,Government Operations,103
+1256,1995,0.0483092,Government Operations,104
+1257,1996,0.0642347,Government Operations,104
+1258,1997,0.0457928,Government Operations,105
+1259,1998,0.0750853,Government Operations,105
+1260,1999,0.0519903,Government Operations,106
+1261,2000,0.0737832,Government Operations,106
+1262,2001,0.0428065,Government Operations,107
+1263,2002,0.0379715,Government Operations,107
+1264,2003,0.0402484,Government Operations,108
+1265,2004,0.0503265,Government Operations,108
+1266,2005,0.0619081,Government Operations,109
+1267,2006,0.0720749,Government Operations,109
+1268,2007,0.0679138,Government Operations,110
+1269,2008,0.053246,Government Operations,110
+1270,2009,0.056497,Government Operations,111
+1271,2010,0.080164,Government Operations,111
+1272,2011,0.080796,Government Operations,112
+1273,2012,0.099494,Government Operations,112
+1274,1946,,Public Lands,79
+1275,1947,0,Public Lands,80
+1276,1948,0,Public Lands,80
+1277,1949,0,Public Lands,81
+1278,1950,0,Public Lands,81
+1279,1951,0,Public Lands,82
+1280,1952,0,Public Lands,82
+1281,1953,,Public Lands,83
+1282,1954,0,Public Lands,83
+1283,1955,,Public Lands,84
+1284,1956,0,Public Lands,84
+1285,1957,0,Public Lands,85
+1286,1958,0,Public Lands,85
+1287,1959,0,Public Lands,86
+1288,1960,0,Public Lands,86
+1289,1961,0,Public Lands,87
+1290,1962,0,Public Lands,87
+1291,1963,0,Public Lands,88
+1292,1964,0.000267094,Public Lands,88
+1293,1965,0,Public Lands,89
+1294,1966,0,Public Lands,89
+1295,1967,0,Public Lands,90
+1296,1968,0,Public Lands,90
+1297,1969,0,Public Lands,91
+1298,1970,0,Public Lands,91
+1299,1971,0,Public Lands,92
+1300,1972,0,Public Lands,92
+1301,1973,0,Public Lands,93
+1302,1974,0,Public Lands,93
+1303,1975,0,Public Lands,94
+1304,1976,0,Public Lands,94
+1305,1977,0,Public Lands,95
+1306,1978,0,Public Lands,95
+1307,1979,0.00120968,Public Lands,96
+1308,1980,0.000302755,Public Lands,96
+1309,1981,0,Public Lands,97
+1310,1982,0,Public Lands,97
+1311,1983,0,Public Lands,98
+1312,1984,0,Public Lands,98
+1313,1985,0,Public Lands,99
+1314,1986,0,Public Lands,99
+1315,1987,0,Public Lands,100
+1316,1988,0,Public Lands,100
+1317,1989,0,Public Lands,101
+1318,1990,0,Public Lands,101
+1319,1991,0,Public Lands,102
+1320,1992,0,Public Lands,102
+1321,1993,0,Public Lands,103
+1322,1994,0,Public Lands,103
+1323,1995,0,Public Lands,104
+1324,1996,0,Public Lands,104
+1325,1997,0,Public Lands,105
+1326,1998,0,Public Lands,105
+1327,1999,0,Public Lands,106
+1328,2000,0,Public Lands,106
+1329,2001,0,Public Lands,107
+1330,2002,0,Public Lands,107
+1331,2003,0,Public Lands,108
+1332,2004,0,Public Lands,108
+1333,2005,0,Public Lands,109
+1334,2006,0,Public Lands,109
+1335,2007,0,Public Lands,110
+1336,2008,0,Public Lands,110
+1337,2009,0,Public Lands,111
+1338,2010,0,Public Lands,111
+1339,2011,0,Public Lands,112
+1340,2012,0,Public Lands,112
+1341,1946,,Don't Know/Other,79
+1342,1947,0.163389,Don't Know/Other,80
+1343,1948,0.099359,Don't Know/Other,80
+1344,1949,0.173326,Don't Know/Other,81
+1345,1950,0.0654206,Don't Know/Other,81
+1346,1951,0.152381,Don't Know/Other,82
+1347,1952,0.0357143,Don't Know/Other,82
+1348,1953,,Don't Know/Other,83
+1349,1954,0.122807,Don't Know/Other,83
+1350,1955,,Don't Know/Other,84
+1351,1956,0.132787,Don't Know/Other,84
+1352,1957,0.0829346,Don't Know/Other,85
+1353,1958,0.137793,Don't Know/Other,85
+1354,1959,0.174937,Don't Know/Other,86
+1355,1960,0.0700259,Don't Know/Other,86
+1356,1961,0.0755532,Don't Know/Other,87
+1357,1962,0.101351,Don't Know/Other,87
+1358,1963,0.131455,Don't Know/Other,88
+1359,1964,0.115385,Don't Know/Other,88
+1360,1965,0.0712576,Don't Know/Other,89
+1361,1966,0.0583153,Don't Know/Other,89
+1362,1967,0.0391566,Don't Know/Other,90
+1363,1968,0.0156975,Don't Know/Other,90
+1364,1969,0.0324074,Don't Know/Other,91
+1365,1970,0.0571924,Don't Know/Other,91
+1366,1971,0.0367171,Don't Know/Other,92
+1367,1972,0.0439716,Don't Know/Other,92
+1368,1973,0.05026,Don't Know/Other,93
+1369,1974,0.0486957,Don't Know/Other,93
+1370,1975,0.0366492,Don't Know/Other,94
+1371,1976,0.0954198,Don't Know/Other,94
+1372,1977,0.0544662,Don't Know/Other,95
+1373,1978,0.0439189,Don't Know/Other,95
+1374,1979,0.0516129,Don't Know/Other,96
+1375,1980,0.0451105,Don't Know/Other,96
+1376,1981,0.0451517,Don't Know/Other,97
+1377,1982,0.0570292,Don't Know/Other,97
+1378,1983,0.0760725,Don't Know/Other,98
+1379,1984,0.0874752,Don't Know/Other,98
+1380,1985,0.181034,Don't Know/Other,99
+1381,1986,0.229787,Don't Know/Other,99
+1382,1987,0.172549,Don't Know/Other,100
+1383,1988,0.4,Don't Know/Other,100
+1384,1989,0.138258,Don't Know/Other,101
+1385,1990,0.130181,Don't Know/Other,101
+1386,1991,0.107277,Don't Know/Other,102
+1387,1992,0.149038,Don't Know/Other,102
+1388,1993,0.0450782,Don't Know/Other,103
+1389,1994,0.147457,Don't Know/Other,103
+1390,1995,0.103865,Don't Know/Other,104
+1391,1996,0.105472,Don't Know/Other,104
+1392,1997,0.108758,Don't Know/Other,105
+1393,1998,0.0930034,Don't Know/Other,105
+1394,1999,0.10723,Don't Know/Other,106
+1395,2000,0.091047,Don't Know/Other,106
+1396,2001,0.0787381,Don't Know/Other,107
+1397,2002,0.081241,Don't Know/Other,107
+1398,2003,0.0670276,Don't Know/Other,108
+1399,2004,0.0563724,Don't Know/Other,108
+1400,2005,0.0597463,Don't Know/Other,109
+1401,2006,0.0941914,Don't Know/Other,109
+1402,2007,0.0676129,Don't Know/Other,110
+1403,2008,0.053112,Don't Know/Other,110
+1404,2009,0.048938,Don't Know/Other,111
+1405,2010,0.049174,Don't Know/Other,111
+1406,2011,0.052363,Don't Know/Other,112
+1407,2012,0.060493,Don't Know/Other,112

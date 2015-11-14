@@ -37,7 +37,7 @@ source("../03 R SQL Visualizations/BarChart.R",echo=TRUE)
 ```
 
 
-##Percentages of Social Issue Major Topics 1950 - 2010
+##Percentages of Social Issue Major Topics 1960 - 2012
 We made a scatterplot and a line graph portraying the Most Important Problem from Gallup's survey, specifically for topics related to social issues: Civil Rights, Crime, Education, Health, and Social Welfare.
 
 The two visualizations portray several important trends: we can clearly see that Civil Rights was an extremely important issue up until 1975, when other issues began to take precedence.
@@ -50,8 +50,13 @@ Finally, though one would think that Health would be closely correlated with the
 
 Towards the 2000s, Education, Health, Social Welfare, and Crime all experience a similar slight uptrend, while Civil Rights stays dormant. These trends altogether demonstrate the rising and falling of these different social issues' importance, and how they mostly fluctuate at similar times.
 
+#####Most Important Problems in Social Issues 1960 - 2012
 ![](../02 Tableau/Scatterplot.jpg)
 
+Here is the R/SQL version of this graph:
+```{r fig.width=10, fig.height=6}
+source("../03 R SQL Visualizations/Scatterplot.R",echo=TRUE )
+```
 
 ##A Closer Look at the Great Recession
 ![](../02 Tableau/CrossTab.jpg)
