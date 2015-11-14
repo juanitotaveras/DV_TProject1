@@ -3,7 +3,7 @@ df <- data.frame(fromJSON(getURL(URLencode('skipper.cs.utexas.edu:5001/rest/nati
 
 
 df_1 <- df %>% mutate(KPI = ifelse(PERCENTAGE < 0.1, 'Low', ifelse(PERCENTAGE < 0.25, 'Moderate', 'High'))) 
-
+View(df_1)
 ct <- ggplot(df_1, aes(MAJORTOPIC, YEAR)) + geom_tile(aes(fill = KPI)) + theme_bw() + xlab("") + ylab("") 
 ct +  geom_text(aes(label = PERCENTAGE)) + labs(title = "Gallup Poll Crosstab") + theme(panel.grid.major = element_line(colour = "black")) + scale_fill_manual(values=c("#78C3FB", "#16E0BD", "#98838F"))
 
