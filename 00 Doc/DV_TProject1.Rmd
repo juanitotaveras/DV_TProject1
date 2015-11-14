@@ -68,6 +68,8 @@ This Visualization provides useful insight into the large change in public opini
 
 ##Data Blending
 We created another data set called Policy Moods using a Python script that similarly represents the country's opinion on major topics. We then used Tableau to blend them with Year and Major topic, and produced a scatterplot just like our "Social Issues 1960 - 2012"" plot, but with this data blended with it.
+
+###Most Important Problems in Social Issues 1960 - 2012
 ![](../02 Tableau/DataBlending1.jpg)
 
 We also used SQL/R to blend the data sources and created the same scatterplot.
