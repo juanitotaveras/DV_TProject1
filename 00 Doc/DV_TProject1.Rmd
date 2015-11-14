@@ -70,8 +70,7 @@ This Visualization provides useful insight into the large change in public opini
 We blended our original dataset with a Dataset on Public Laws passed by the United States Congress. Here is a tableau visualization of the blended datasets. The two datasets are identical by year and major topic.The text in the crosstab is set to the id number of the law passed. The color is based on a KPI for topic importance at the time of the law's passing.
 ![](../02 Tableau/DataBlending1.jpg)
 
-Since our two datasets only had discrete variables in common, which were Year and MajorTopic, it was not possible to plot a table in R. Join would be a better function for this.
-But here is a table of the data sources blended with these two columns.
+We made another dataset called Policy Moods and randomized the percentages of people's opinions on major topics using a Python script. We then blended it with our original dataset and made this scatterplot with it, which is the same as our scatterplot about Social Issues 1960 - 2012 but with this additional data.
 
 ```{r fig.width=10, fig.height=6}
 source("../03 R SQL Visualizations/Blending.R",echo=TRUE)
